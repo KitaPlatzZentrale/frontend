@@ -11,10 +11,10 @@ export default function Footer() {
 					<NavLinks className="footer-links" />
 					<SocialLinks className="footer-social-links" />
 					<div className="footer-copyright">
-						&copy; 2018 Holly, all rights reserved
-					</div>
-				</div>
-			</div>
+						&copy; 2020 KitaPlatzZentrale.de{' '}
+					</div>{' '}
+				</div>{' '}
+			</div>{' '}
 		</footer>
 	);
 }

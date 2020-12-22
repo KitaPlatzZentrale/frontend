@@ -1,5 +1,5 @@
 {
-  "name": "holly_react",
+  "name": "KitaPlatzZentrale.de",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://lukemcdonald.github.io/holly-react",
@@ -50,5 +50,10 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "Zentrale for the KitaPlätze",
+  "main": "index.js",
+  "repository": "https://github.com/KitaPlatzZentrale/frontend.git",
+  "author": "Hanno <hanno.grimm@code.berlin>",
+  "license": "MIT"
 }

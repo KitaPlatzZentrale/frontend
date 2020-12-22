@@ -7,10 +7,10 @@ export default function IndexPage() {
 	return (
 		<Layout>
 			<Hero
-				title="Landing template for startups"
-				content="Our landing page template works for all the devices, so you only have to setup it once, and get beautiful results forever."
+				title="Kitaplatz Kinderleicht"
+				content="Naja wir machen halt so 'n Ding mit Machine Learning, damit eure Kinnärs auch nen schönen Ort finden."
 				illustration={HeroIllustration}
-			/>
+			/>{' '}
 		</Layout>
 	);
 }
